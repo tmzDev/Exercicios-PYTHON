@@ -3,7 +3,7 @@
 
 pt = int(input('Primeiro termo : '))
 rz = int(input('Razão : '))
-x = v = 0
+x = 0
 while x < 10:
     print(f'{pt} ->', end=' ')
     pt += rz 
